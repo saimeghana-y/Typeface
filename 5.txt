@@ -15,7 +15,7 @@ We use an HTTP requests library (such as the Python-Requests library)
 - and combine it with the Python BeautifulSoup library to scrape data from your page.
 
 Procedure :
-1) Identify the target website
+1) Determine the target website
 2) Collect URLs of the pages where you want to extract data from
 3) Make a request to these URLs to get the HTML of the page
 4) Use locators to find the images and text in the HTML
